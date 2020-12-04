@@ -14,4 +14,4 @@ async def on_member_join(member):
     print('w-w-welcome to the server'f'{member}, y-you joining doesnt make us happy or anything >///<') #f in this statement acts as a variable and must be used
 
 
-client.run('Nzg0MTEzODEwMTg1MTI1OTIw.X8kk5A.OslqRzf6Hw6f6RoE6GTfr_0WDoM')
+client.run('token')
